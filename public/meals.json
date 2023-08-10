@@ -1,0 +1,90 @@
+[
+    {
+        "id": "52768",
+        "name": "Apple Frangipan Tart",
+        "Category": "Dessert",
+        "seller": "British",
+        "price": 420,
+        "ratings": 4,
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "52893",
+        "name":  "Apple & Blackberry Crumble",
+        "Category": "Dessert",
+        "seller": "British",
+        "price": 196,
+        "ratings": 5,
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
+        "shipping": 14,
+        "quantity": 0
+    },
+    {
+        "id":"53049",
+        "name": "Apam balik",
+        "Category": "Dessert",
+        "seller":  "Malaysian",
+        "price": 420,
+        "ratings": 4,
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg",
+        "shipping": 17,
+        "quantity": 0
+},
+    {
+        "id": "53050",
+        "name": "Ayam Percik",
+        "Category": "Chicken",
+        "seller": "Malaysian",
+        "price": 196,
+        "ratings": 5,
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg",
+        "shipping": 14,
+        "quantity": 0       
+    },
+    {
+        "id": "52760",
+        "name": "Apple Frangipan mart",
+        "Category": "Dessert",
+        "seller": "British",
+        "price": 450,
+        "ratings": 2,
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+        "shipping": 7,
+        "quantity": 0
+    },
+    {
+        "id": "52897",
+        "name":  "Apple & Cuumber Crumble",
+        "Category": "Dessert",
+        "seller": "British",
+        "price": 180,
+        "ratings": 5,
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/xvsurr1511719182.jpg",
+        "shipping": 18,
+        "quantity": 0
+    },
+    {
+        "id":"53048",
+        "name": "Apam balik",
+        "Category": "Dessert",
+        "seller":  "Italian",
+        "price": 240,
+        "ratings": 5,
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg",
+        "shipping": 12,
+        "quantity": 0
+},
+    {
+        "id": "53051",
+        "name": "Chicken kosa",
+        "Category": "Chicken",
+        "seller": "Indian",
+        "price": 500,
+        "ratings": 3,
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg",
+        "shipping": 20,
+        "quantity": 0       
+    }
+    ]

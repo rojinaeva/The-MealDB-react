@@ -1,0 +1,20 @@
+.header{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:80px;
+    background: #1C2B35;
+    padding-left:100px;
+    padding-right:85px ;
+}
+.header h1{
+    color:rgb(230, 152, 9);
+    font-size: 2rem;
+}
+nav.header a{
+    text-decoration: none;
+    margin-right: 30px;
+    color: #FFF;
+    font-size: 17px;
+}
