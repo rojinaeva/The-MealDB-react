@@ -10,6 +10,7 @@
         "shipping": 1,
         "quantity": 0
     },
+  
     {
         "id": "52893",
         "name":  "Apple & Blackberry Crumble",
@@ -86,5 +87,16 @@
         "strMealThumb": "https://www.themealdb.com/images/media/meals/020z181619788503.jpg",
         "shipping": 20,
         "quantity": 0       
+    },
+    {
+        "id": "52764",
+        "name": "Apple Malta Tart",
+        "Category": "Dessert",
+        "seller": "British",
+        "price": 470,
+        "ratings": 5,
+        "strMealThumb": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+        "shipping": 10,
+        "quantity": 0
     }
     ]
